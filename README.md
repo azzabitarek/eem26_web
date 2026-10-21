@@ -1,0 +1,33 @@
+# Projet — Réseau Wi-Fi bloc d'instruction (EEM26)
+
+Conception et planification du déploiement d'un réseau Wi-Fi dans un établissement universitaire.
+
+- **Périmètre** : bloc d'instruction (2 étages : 7 bureaux, 5 salles de classe, 1 salle de réunion)
+- **Durée** : 3 mois
+- **Démarche** : PMBOK (6e + 7e éd.) — cycle en V
+
+## Structure
+
+| Dossier | Contenu |
+|---|---|
+| `docs/01-demarrage/` | Charte du projet, registre des parties prenantes |
+| `docs/02-planification/` | WBS, matrice des exigences |
+
+## Documents
+
+- [Charte du projet](docs/01-demarrage/charte-projet.md) ([Word](docs/01-demarrage/charte-projet.docx))
+- [Registre des parties prenantes](docs/01-demarrage/registre-parties-prenantes.md)
+- [WBS](docs/02-planification/wbs.md)
+- [Matrice des exigences](docs/02-planification/matrice-exigences.md)
+
+## Avancement
+
+- [x] Étape 1 — Démarrage : charte + parties prenantes
+- [x] Étape 2 — Périmètre : WBS + matrice des exigences
+- [ ] Étape 3 — Plans de gestion : calendrier/Gantt, coûts, risques
+- [ ] Étape 4 — Conception : architecture, étude radio, sécurité
+- [ ] Étape 5 — Chiffrage
+- [ ] Étape 6 — Planification du déploiement
+- [ ] Étape 7 — Plan de tests et recette
+- [ ] Étape 8 — Surveillance et contrôle
+- [ ] Étape 9 — Clôture
