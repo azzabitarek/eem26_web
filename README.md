@@ -21,6 +21,7 @@ Conception et planification du déploiement d'un réseau Wi-Fi dans un établiss
 - [WBS](docs/02-planification/wbs.md)
 - [Matrice des exigences](docs/02-planification/matrice-exigences.md)
 - [Plan calendrier / Gantt](docs/03-plans-de-gestion/plan-calendrier-gantt.md)
+- [Diagrammes Gantt (chemin critique) et PERT/CPM](docs/03-plans-de-gestion/diagrammes-gantt-pert.md)
 - [Plan de gestion des coûts](docs/03-plans-de-gestion/plan-couts-budget.md)
 - [Registre des risques](docs/03-plans-de-gestion/registre-risques.md)
 
