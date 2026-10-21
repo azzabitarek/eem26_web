@@ -10,6 +10,7 @@ Conception et planification du déploiement d'un réseau Wi-Fi dans un établiss
 
 | Dossier | Contenu |
 |---|---|
+| `docs/00-methodologie/` | Démarche cycle en V + PMBOK, correspondance phases/validations |
 | `docs/01-demarrage/` | Charte du projet, registre des parties prenantes |
 | `docs/02-planification/` | WBS, matrice des exigences |
 | `docs/03-plans-de-gestion/` | Calendrier/Gantt, coûts/budget, risques |
@@ -17,6 +18,7 @@ Conception et planification du déploiement d'un réseau Wi-Fi dans un établiss
 
 ## Documents
 
+- [Démarche méthodologique (cycle en V + PMBOK)](docs/00-methodologie/demarche-methode.md)
 - [Charte du projet](docs/01-demarrage/charte-projet.md) ([Word](docs/01-demarrage/charte-projet.docx))
 - [Registre des parties prenantes](docs/01-demarrage/registre-parties-prenantes.md)
 - [WBS](docs/02-planification/wbs.md)
