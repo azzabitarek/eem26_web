@@ -13,6 +13,7 @@ Conception et planification du déploiement d'un réseau Wi-Fi dans un établiss
 | `docs/01-demarrage/` | Charte du projet, registre des parties prenantes |
 | `docs/02-planification/` | WBS, matrice des exigences |
 | `docs/03-plans-de-gestion/` | Calendrier/Gantt, coûts/budget, risques |
+| `docs/04-conception/` | Architecture, étude radio, sécurité |
 
 ## Documents
 
@@ -24,12 +25,16 @@ Conception et planification du déploiement d'un réseau Wi-Fi dans un établiss
 - [Diagrammes Gantt (chemin critique) et PERT/CPM](docs/03-plans-de-gestion/diagrammes-gantt-pert.md)
 - [Plan de gestion des coûts](docs/03-plans-de-gestion/plan-couts-budget.md)
 - [Registre des risques](docs/03-plans-de-gestion/registre-risques.md)
+- [Dossier d'architecture réseau](docs/04-conception/dossier-architecture.md)
+- [Étude radio](docs/04-conception/etude-radio.md)
+- [Politique de sécurité](docs/04-conception/politique-securite.md)
 
 ## Avancement
 
 - [x] Étape 1 — Démarrage : charte + parties prenantes
 - [x] Étape 2 — Périmètre : WBS + matrice des exigences
 - [x] Étape 3 — Plans de gestion : calendrier/Gantt, coûts, risques
+- [x] Étape 4 — Conception : architecture, étude radio, sécurité
 - [ ] Étape 4 — Conception : architecture, étude radio, sécurité
 - [ ] Étape 5 — Chiffrage
 - [ ] Étape 6 — Planification du déploiement
